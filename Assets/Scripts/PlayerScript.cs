@@ -79,7 +79,7 @@ public class PlayerScript : MonoBehaviour
 
     void GetInput()
     {
-#if UNITY_STANDALONE || UNITY_WEBPLAYER || UNITY_EDITOR
+#if UNITY_STANDALONE || UNITY_WEBGL || UNITY_EDITOR
 
         if (Input.GetButtonDown("Left"))
         {
