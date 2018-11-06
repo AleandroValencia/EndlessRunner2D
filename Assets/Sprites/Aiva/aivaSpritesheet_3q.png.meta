@@ -1,0 +1,526 @@
+fileFormatVersion: 2
+guid: 2638900f26e448d4d945d2f932370cd4
+timeCreated: 1484202854
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: aivaSpritesheet_3q_0
+    21300002: aivaSpritesheet_3q_1
+    21300004: aivaSpritesheet_3q_2
+    21300006: aivaSpritesheet_3q_3
+    21300008: aivaSpritesheet_3q_4
+    21300010: aivaSpritesheet_3q_5
+    21300012: aivaSpritesheet_3q_6
+    21300014: aivaSpritesheet_3q_7
+    21300016: aivaSpritesheet_3q_8
+    21300018: aivaSpritesheet_3q_9
+    21300020: aivaSpritesheet_3q_10
+    21300022: aivaSpritesheet_3q_11
+    21300024: aivaSpritesheet_3q_12
+    21300026: aivaSpritesheet_3q_13
+    21300028: aivaSpritesheet_3q_14
+    21300030: aivaSpritesheet_3q_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: aivaSpritesheet_3q_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1786
+        width: 231
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.5, y: 118}
+        - {x: 32.5, y: 100}
+        - {x: 28.5, y: 115}
+        - {x: 17.5, y: 131}
+        - {x: -44.5, y: 131}
+        - {x: -67.5, y: 123}
+        - {x: -115.5, y: 87}
+        - {x: -115.5, y: -38}
+        - {x: -89.5, y: -102}
+        - {x: -51.5, y: -131}
+        - {x: 23.5, y: -131}
+        - {x: 32.5, y: -128}
+        - {x: 115.5, y: 61}
+        - {x: 115.5, y: 102}
+        - {x: 82.5, y: 129}
+      - - {x: 112.5, y: 12}
+        - {x: 114.5, y: 10}
+        - {x: 115.5, y: 10}
+        - {x: 115.5, y: 19}
+        - {x: 112.5, y: 18}
+    - name: aivaSpritesheet_3q_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1788
+        width: 224
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 94, y: 130}
+        - {x: 46, y: 114}
+        - {x: 39, y: 91}
+        - {x: 27, y: 123}
+        - {x: 18, y: 130}
+        - {x: -61, y: 130}
+        - {x: -112, y: 67}
+        - {x: -112, y: 4}
+        - {x: -99, y: -7}
+        - {x: -97, y: -125}
+        - {x: -91, y: -130}
+        - {x: 11, y: -130}
+        - {x: 35, y: -126}
+        - {x: 112, y: 55}
+        - {x: 112, y: 119}
+        - {x: 100, y: 130}
+      - - {x: 109, y: -3}
+        - {x: 111, y: -5}
+        - {x: 112, y: -5}
+        - {x: 112, y: 5}
+        - {x: 109, y: 4}
+      - - {x: -112, y: 74}
+        - {x: -109, y: 75}
+        - {x: -109, y: 78}
+        - {x: -111, y: 80}
+        - {x: -112, y: 80}
+    - name: aivaSpritesheet_3q_2
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1761
+        width: 200
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -143.5}
+        - {x: 100, y: -67.5}
+        - {x: 100, y: 71.5}
+        - {x: 42, y: 143.5}
+        - {x: -74, y: 143.5}
+        - {x: -100, y: 92.5}
+        - {x: -100, y: -93.5}
+        - {x: -91, y: -130.5}
+        - {x: -65, y: -143.5}
+        - {x: -29, y: -143.5}
+        - {x: -27, y: -137.5}
+        - {x: -25, y: -124.5}
+        - {x: -24, y: -143.5}
+      - - {x: 97, y: -9.5}
+        - {x: 99, y: -11.5}
+        - {x: 100, y: -11.5}
+        - {x: 100, y: -0.5}
+        - {x: 97, y: -1.5}
+      - - {x: -100, y: 112.5}
+        - {x: -97, y: 113.5}
+        - {x: -97, y: 123.5}
+        - {x: -99, y: 125.5}
+        - {x: -100, y: 125.5}
+    - name: aivaSpritesheet_3q_3
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1751
+        width: 172
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 148.5}
+        - {x: -86, y: 82.5}
+        - {x: -86, y: -60.5}
+        - {x: -55, y: -135.5}
+        - {x: -30, y: -140.5}
+        - {x: -21, y: -131.5}
+        - {x: -20, y: -105.5}
+        - {x: 0, y: -143.5}
+        - {x: 5, y: -148.5}
+        - {x: 86, y: -148.5}
+        - {x: 86, y: 148.5}
+      - - {x: -86, y: 20.5}
+        - {x: -83, y: 21.5}
+        - {x: -83, y: 27.5}
+        - {x: -85, y: 29.5}
+        - {x: -86, y: 29.5}
+    - name: aivaSpritesheet_3q_4
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1738
+        width: 134
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: 155}
+        - {x: -27, y: 155}
+        - {x: -52, y: 115}
+        - {x: -67, y: 62}
+        - {x: -67, y: -126}
+        - {x: -58, y: -155}
+        - {x: 60, y: -155}
+        - {x: 67, y: -116}
+        - {x: 67, y: 86}
+        - {x: 60, y: 111}
+    - name: aivaSpritesheet_3q_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1414
+        width: 149
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: -162}
+        - {x: 25.5, y: -159}
+        - {x: 5.5, y: -159}
+        - {x: 4.5, y: -162}
+      - - {x: 0.5, y: 162}
+        - {x: -6.5, y: 160}
+        - {x: -70.5, y: 66}
+        - {x: -74.5, y: 45}
+        - {x: -74.5, y: -34}
+        - {x: -28.5, y: -101}
+        - {x: 15.5, y: -120}
+        - {x: 36.5, y: -153}
+        - {x: 51.5, y: -162}
+        - {x: 74.5, y: -162}
+        - {x: 74.5, y: 125}
+        - {x: 47.5, y: 162}
+    - name: aivaSpritesheet_3q_6
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1433
+        width: 163
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81.5, y: -152.5}
+        - {x: -78.5, y: -152.5}
+        - {x: -78.5, y: -149.5}
+        - {x: -80.5, y: -147.5}
+        - {x: -81.5, y: -147.5}
+      - - {x: 48.5, y: 152.5}
+        - {x: -10.5, y: 152.5}
+        - {x: -81.5, y: 69.5}
+        - {x: -81.5, y: 3.5}
+        - {x: -74.5, y: -22.5}
+        - {x: -38.5, y: -121.5}
+        - {x: 10.5, y: -118.5}
+        - {x: 48.5, y: -152.5}
+        - {x: 81.5, y: -152.5}
+        - {x: 81.5, y: 30.5}
+        - {x: 62.5, y: 130.5}
+      - - {x: 78.5, y: 60.5}
+        - {x: 80.5, y: 58.5}
+        - {x: 81.5, y: 58.5}
+        - {x: 81.5, y: 71.5}
+        - {x: 78.5, y: 70.5}
+    - name: aivaSpritesheet_3q_7
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1464
+        width: 220
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: 112}
+        - {x: 52, y: 137}
+        - {x: -12, y: 137}
+        - {x: -28, y: 134}
+        - {x: -91, y: 106}
+        - {x: -110, y: 67}
+        - {x: -110, y: 26}
+        - {x: -40, y: -20}
+        - {x: -46, y: -102}
+        - {x: -34, y: -137}
+        - {x: 109, y: -137}
+        - {x: 110, y: -136}
+        - {x: 110, y: -69}
+        - {x: 94, y: -27}
+    - name: aivaSpritesheet_3q_8
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1486
+        width: 205
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102.5, y: -125.5}
+        - {x: 102.5, y: 17.5}
+        - {x: 55.5, y: 121.5}
+        - {x: 47.5, y: 126.5}
+        - {x: -56.5, y: 126.5}
+        - {x: -102.5, y: 121.5}
+        - {x: -102.5, y: -39.5}
+        - {x: -25.5, y: -126.5}
+        - {x: 10.5, y: -126.5}
+        - {x: 11.5, y: -117.5}
+        - {x: 8.5, y: -104.5}
+        - {x: 51.5, y: -122.5}
+      - - {x: -102.5, y: -125.5}
+        - {x: -99.5, y: -124.5}
+        - {x: -98.5, y: -118.5}
+        - {x: -100.5, y: -113.5}
+        - {x: -102.5, y: -113.5}
+    - name: aivaSpritesheet_3q_9
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1487
+        width: 203
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 101.5, y: 84.5}
+        - {x: 62.5, y: 125.5}
+        - {x: -80.5, y: 125.5}
+        - {x: -92.5, y: 115.5}
+        - {x: -101.5, y: 88.5}
+        - {x: -101.5, y: 49.5}
+        - {x: -65.5, y: 6.5}
+        - {x: -57.5, y: -1.5}
+        - {x: -50.5, y: -6.5}
+        - {x: -22.5, y: -125.5}
+        - {x: 7.5, y: -125.5}
+        - {x: 14.5, y: -116.5}
+        - {x: 37.5, y: -125.5}
+        - {x: 101.5, y: -125.5}
+    - name: aivaSpritesheet_3q_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1132
+        width: 168
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78, y: -47.5}
+        - {x: 84, y: -43.5}
+        - {x: 84, y: 48.5}
+        - {x: 53, y: 141.5}
+        - {x: -58, y: 141.5}
+        - {x: -84, y: 104.5}
+        - {x: -84, y: -129.5}
+        - {x: -75, y: -141.5}
+        - {x: 63, y: -141.5}
+        - {x: 65, y: -119.5}
+        - {x: 61, y: -109.5}
+      - - {x: 48, y: 141.5}
+        - {x: 49, y: 138.5}
+        - {x: 57, y: 138.5}
+        - {x: 59, y: 140.5}
+        - {x: 59, y: 141.5}
+    - name: aivaSpritesheet_3q_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1109
+        width: 160
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 80, y: -95}
+        - {x: 80, y: 93}
+        - {x: 49, y: 150}
+        - {x: 37, y: 153}
+        - {x: -61, y: 153}
+        - {x: -80, y: 95}
+        - {x: -80, y: -8}
+        - {x: -74, y: -16}
+        - {x: -56, y: -13}
+        - {x: -47, y: -153}
+        - {x: -14, y: -153}
+        - {x: -12, y: -149}
+        - {x: 2, y: -153}
+        - {x: 64, y: -153}
+      - - {x: 77, y: 36}
+        - {x: 79, y: 34}
+        - {x: 80, y: 34}
+        - {x: 80, y: 42}
+        - {x: 77, y: 41}
+    - name: aivaSpritesheet_3q_12
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1097
+        width: 194
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: 122.5}
+        - {x: 14, y: 159.5}
+        - {x: -36, y: 159.5}
+        - {x: -65, y: 142.5}
+        - {x: -97, y: 76.5}
+        - {x: -97, y: 22.5}
+        - {x: -63, y: -159.5}
+        - {x: -15, y: -159.5}
+        - {x: 39, y: -130.5}
+        - {x: 97, y: -43.5}
+        - {x: 97, y: 35.5}
+      - - {x: -97, y: 13.5}
+        - {x: -94, y: 14.5}
+        - {x: -94, y: 23.5}
+        - {x: -96, y: 25.5}
+        - {x: -97, y: 25.5}
+      - - {x: 94, y: 58.5}
+        - {x: 96, y: 56.5}
+        - {x: 97, y: 56.5}
+        - {x: 97, y: 77.5}
+        - {x: 94, y: 76.5}
+    - name: aivaSpritesheet_3q_13
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1083
+        width: 194
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97, y: 20}
+        - {x: 97, y: 81}
+        - {x: 96, y: 84}
+        - {x: 18, y: 166}
+        - {x: -57, y: 166}
+        - {x: -97, y: 126}
+        - {x: -97, y: 22}
+        - {x: -56, y: -166}
+        - {x: -13, y: -166}
+        - {x: -7, y: -163}
+        - {x: 63, y: -60}
+        - {x: 87, y: -18}
+        - {x: 95, y: 4}
+      - - {x: -97, y: -5}
+        - {x: -94, y: -4}
+        - {x: -94, y: 7}
+        - {x: -96, y: 9}
+        - {x: -97, y: 9}
+    - name: aivaSpritesheet_3q_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 804
+        width: 213
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 99.5, y: 94}
+        - {x: 43.5, y: 119}
+        - {x: 13.5, y: 140}
+        - {x: -62.5, y: 140}
+        - {x: -106.5, y: 91}
+        - {x: -106.5, y: 28}
+        - {x: -81.5, y: 3}
+        - {x: -73.5, y: -103}
+        - {x: -56.5, y: -140}
+        - {x: -3.5, y: -140}
+        - {x: 33.5, y: -113}
+        - {x: 88.5, y: -24}
+        - {x: 106.5, y: -5}
+        - {x: 106.5, y: 78}
+    - name: aivaSpritesheet_3q_15
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1102
+        width: 193
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96.5, y: 86.5}
+        - {x: 73.5, y: 127.5}
+        - {x: 26.5, y: 156.5}
+        - {x: -42.5, y: 156.5}
+        - {x: -96.5, y: 89.5}
+        - {x: -96.5, y: 18.5}
+        - {x: -80.5, y: -64.5}
+        - {x: -50.5, y: -156.5}
+        - {x: 2.5, y: -156.5}
+        - {x: 39.5, y: -113.5}
+        - {x: 56.5, y: -22.5}
+        - {x: 96.5, y: 13.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

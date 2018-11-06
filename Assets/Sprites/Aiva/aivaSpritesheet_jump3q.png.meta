@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: 66a29a3369d41dd41a87ac0c177cd2f3
+timeCreated: 1484203235
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: aivaSpritesheet_jump3q_0
+    21300002: aivaSpritesheet_jump3q_1
+    21300004: aivaSpritesheet_jump3q_2
+    21300006: aivaSpritesheet_jump3q_3
+    21300008: aivaSpritesheet_jump3q_4
+    21300010: aivaSpritesheet_jump3q_5
+    21300012: aivaSpritesheet_jump3q_6
+    21300014: aivaSpritesheet_jump3q_7
+    21300016: aivaSpritesheet_jump3q_8
+    21300018: aivaSpritesheet_jump3q_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: aivaSpritesheet_jump3q_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 792
+        width: 165
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 116}
+        - {x: -53.5, y: 116}
+        - {x: -82.5, y: 53}
+        - {x: -82.5, y: -11}
+        - {x: -80.5, y: -15}
+        - {x: -82.5, y: -39}
+        - {x: -82.5, y: -116}
+        - {x: 52.5, y: -116}
+        - {x: 81.5, y: -24}
+        - {x: 82.5, y: -16}
+        - {x: 82.5, y: 60}
+      - - {x: 79.5, y: -23}
+        - {x: 81.5, y: -25}
+        - {x: 82.5, y: -25}
+        - {x: 82.5, y: -16}
+        - {x: 79.5, y: -17}
+    - name: aivaSpritesheet_jump3q_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 718
+        width: 154
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62, y: 129}
+        - {x: 38, y: 153}
+        - {x: -28, y: 153}
+        - {x: -50, y: 145}
+        - {x: -77, y: 80}
+        - {x: -77, y: -4}
+        - {x: -53, y: -35}
+        - {x: -45, y: -110}
+        - {x: -27, y: -153}
+        - {x: 68, y: -153}
+        - {x: 77, y: -123}
+        - {x: 77, y: 62}
+      - - {x: -77, y: 66}
+        - {x: -74, y: 67}
+        - {x: -74, y: 77}
+        - {x: -76, y: 79}
+        - {x: -77, y: 79}
+      - - {x: 74, y: 92}
+        - {x: 76, y: 90}
+        - {x: 77, y: 90}
+        - {x: 77, y: 127}
+        - {x: 74, y: 126}
+    - name: aivaSpritesheet_jump3q_2
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 679
+        width: 128
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: -172.5}
+        - {x: 60, y: -172.5}
+        - {x: 64, y: -154.5}
+        - {x: 64, y: 133.5}
+        - {x: 52, y: 170.5}
+        - {x: 47, y: 172.5}
+        - {x: -64, y: 172.5}
+        - {x: -64, y: -38.5}
+        - {x: -31, y: -172.5}
+        - {x: 10, y: -172.5}
+        - {x: 8, y: -145.5}
+        - {x: 36, y: -168.5}
+      - - {x: -64, y: -24.5}
+        - {x: -61, y: -23.5}
+        - {x: -61, y: -13.5}
+        - {x: -63, y: -11.5}
+        - {x: -64, y: -11.5}
+    - name: aivaSpritesheet_jump3q_3
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 674
+        width: 142
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: 132}
+        - {x: 52, y: 165}
+        - {x: 43, y: 174}
+        - {x: 29, y: 170}
+        - {x: 14, y: 175}
+        - {x: -71, y: 175}
+        - {x: -71, y: -117}
+        - {x: -65, y: -150}
+        - {x: -43, y: -175}
+        - {x: 57, y: -175}
+        - {x: 71, y: -121}
+        - {x: 71, y: 0}
+    - name: aivaSpritesheet_jump3q_4
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 696
+        width: 143
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71.5, y: 159}
+        - {x: 61.5, y: 164}
+        - {x: 52.5, y: 164}
+        - {x: 44.5, y: 161}
+        - {x: 21.5, y: 164}
+        - {x: -71.5, y: 164}
+        - {x: -71.5, y: -26}
+        - {x: -66.5, y: -60}
+        - {x: -36.5, y: -163}
+        - {x: 36.5, y: -163}
+        - {x: 45.5, y: -147}
+        - {x: 71.5, y: -49}
+      - - {x: -68.5, y: -97}
+        - {x: -68.5, y: -94}
+        - {x: -71.5, y: -93}
+        - {x: -71.5, y: -98}
+      - - {x: 68.5, y: 119}
+        - {x: 70.5, y: 117}
+        - {x: 71.5, y: 117}
+        - {x: 71.5, y: 140}
+        - {x: 68.5, y: 139}
+    - name: aivaSpritesheet_jump3q_5
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 727
+        width: 159
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 79.5, y: -90.5}
+        - {x: 79.5, y: 98.5}
+        - {x: 67.5, y: 147.5}
+        - {x: 53.5, y: 148.5}
+        - {x: -79.5, y: 148.5}
+        - {x: -79.5, y: -14.5}
+        - {x: -66.5, y: -84.5}
+        - {x: -37.5, y: -148.5}
+        - {x: -7.5, y: -148.5}
+        - {x: -6.5, y: -146.5}
+        - {x: -6.5, y: -139.5}
+        - {x: -5.5, y: -148.5}
+        - {x: 32.5, y: -148.5}
+      - - {x: -76.5, y: -30.5}
+        - {x: -76.5, y: -27.5}
+        - {x: -79.5, y: -26.5}
+        - {x: -79.5, y: -31.5}
+    - name: aivaSpritesheet_jump3q_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 397
+        width: 164
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: -134}
+        - {x: 82, y: -79}
+        - {x: 82, y: 111}
+        - {x: 76, y: 139}
+        - {x: -71, y: 139}
+        - {x: -82, y: 123}
+        - {x: -82, y: -24}
+        - {x: -52, y: -139}
+        - {x: -9, y: -139}
+        - {x: -4, y: -131}
+        - {x: 15, y: -139}
+        - {x: 28, y: -139}
+      - - {x: 79, y: 62}
+        - {x: 81, y: 60}
+        - {x: 82, y: 60}
+        - {x: 82, y: 66}
+        - {x: 79, y: 65}
+    - name: aivaSpritesheet_jump3q_7
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 418
+        width: 179
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 89.5, y: -103.5}
+        - {x: 89.5, y: 127.5}
+        - {x: 84.5, y: 128.5}
+        - {x: -89.5, y: 128.5}
+        - {x: -89.5, y: 16.5}
+        - {x: -57.5, y: 4.5}
+        - {x: -47.5, y: 4.5}
+        - {x: -45.5, y: -14.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -60.5, y: -72.5}
+        - {x: -54.5, y: -121.5}
+        - {x: -35.5, y: -128.5}
+        - {x: -7.5, y: -128.5}
+        - {x: -6.5, y: -124.5}
+        - {x: -3.5, y: -128.5}
+        - {x: 59.5, y: -128.5}
+    - name: aivaSpritesheet_jump3q_8
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 401
+        width: 192
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 137}
+        - {x: -40, y: 137}
+        - {x: -96, y: 49}
+        - {x: -96, y: 6}
+        - {x: -56, y: -16}
+        - {x: -71, y: -54}
+        - {x: -67, y: -136}
+        - {x: -63, y: -137}
+        - {x: 50, y: -137}
+        - {x: 96, y: 2}
+        - {x: 96, y: 53}
+        - {x: 85, y: 87}
+      - - {x: -96, y: 52}
+        - {x: -93, y: 53}
+        - {x: -93, y: 58}
+        - {x: -95, y: 60}
+        - {x: -96, y: 60}
+    - name: aivaSpritesheet_jump3q_9
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 410
+        width: 192
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57, y: 132}
+        - {x: -64, y: 132}
+        - {x: -96, y: 47}
+        - {x: -96, y: 15}
+        - {x: -89, y: -38}
+        - {x: -78, y: -132}
+        - {x: 46, y: -132}
+        - {x: 96, y: -32}
+        - {x: 96, y: 77}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

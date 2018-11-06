@@ -1,0 +1,434 @@
+fileFormatVersion: 2
+guid: 7ddb533231ba76e45af67bde2ea91d95
+timeCreated: 1484473191
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: shrub spritesheet_0
+    21300002: shrub spritesheet_1
+    21300004: shrub spritesheet_2
+    21300006: shrub spritesheet_3
+    21300008: shrub spritesheet_4
+    21300010: shrub spritesheet_5
+    21300012: shrub spritesheet_6
+    21300014: shrub spritesheet_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: shrub spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3552
+        width: 819
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 199, y: -66}
+        - {x: 205, y: -56}
+        - {x: 205, y: -18}
+        - {x: 204, y: -11}
+        - {x: 194, y: 19}
+        - {x: 167, y: 84}
+        - {x: 177, y: 103}
+        - {x: 173, y: 112}
+        - {x: 168, y: 113}
+        - {x: 148, y: 93}
+        - {x: 131, y: 102}
+        - {x: 95, y: 101}
+        - {x: 78, y: 119}
+        - {x: 48, y: 136}
+        - {x: -32, y: 136}
+        - {x: -63, y: 116}
+        - {x: -87, y: 115}
+        - {x: -122, y: 96}
+        - {x: -147, y: 119}
+        - {x: -154, y: 117}
+        - {x: -154, y: 111}
+        - {x: -156, y: 81}
+        - {x: -182, y: 50}
+        - {x: -205, y: 1}
+        - {x: -205, y: -54}
+        - {x: -195, y: -67}
+        - {x: -184, y: -76}
+        - {x: -178, y: -80}
+        - {x: -200, y: -93}
+        - {x: -205, y: -100}
+        - {x: -205, y: -112}
+        - {x: -188, y: -125}
+        - {x: -132, y: -133}
+        - {x: -103, y: -136}
+        - {x: 113, y: -136}
+        - {x: 187, y: -124}
+        - {x: 204, y: -109}
+        - {x: 201, y: -91}
+    - name: shrub spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3022
+        width: 843
+        height: 527
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 205, y: -98}
+        - {x: 197, y: -86}
+        - {x: 211, y: -58}
+        - {x: 211, y: -13}
+        - {x: 203, y: 16}
+        - {x: 168, y: 86}
+        - {x: 176, y: 105}
+        - {x: 176, y: 117}
+        - {x: 149, y: 101}
+        - {x: 99, y: 102}
+        - {x: 54, y: 132}
+        - {x: -31, y: 132}
+        - {x: -55, y: 119}
+        - {x: -85, y: 112}
+        - {x: -113, y: 99}
+        - {x: -153, y: 123}
+        - {x: -154, y: 118}
+        - {x: -154, y: 108}
+        - {x: -147, y: 92}
+        - {x: -163, y: 76}
+        - {x: -183, y: 51}
+        - {x: -186, y: 27}
+        - {x: -211, y: 6}
+        - {x: -211, y: -49}
+        - {x: -202, y: -65}
+        - {x: -180, y: -82}
+        - {x: -211, y: -90}
+        - {x: -202, y: -116}
+        - {x: -132, y: -129}
+        - {x: -104, y: -131}
+        - {x: -97, y: -132}
+        - {x: 86, y: -132}
+        - {x: 109, y: -130}
+        - {x: 154, y: -125}
+        - {x: 198, y: -113}
+    - name: shrub spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2513
+        width: 876
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 203, y: -81.5}
+        - {x: 198, y: -78.5}
+        - {x: 219, y: -55.5}
+        - {x: 219, y: -10.5}
+        - {x: 212, y: 18.5}
+        - {x: 186, y: 52.5}
+        - {x: 178, y: 102.5}
+        - {x: 176, y: 106.5}
+        - {x: 173, y: 111.5}
+        - {x: 166, y: 109.5}
+        - {x: 137, y: 97.5}
+        - {x: 102, y: 97.5}
+        - {x: 77, y: 117.5}
+        - {x: 44, y: 127.5}
+        - {x: -28, y: 127.5}
+        - {x: -60, y: 117.5}
+        - {x: -112, y: 98.5}
+        - {x: -154, y: 121.5}
+        - {x: -156, y: 109.5}
+        - {x: -147, y: 91.5}
+        - {x: -184, y: 60.5}
+        - {x: -194, y: 35.5}
+        - {x: -213, y: 9.5}
+        - {x: -219, y: -3.5}
+        - {x: -219, y: -43.5}
+        - {x: -204, y: -67.5}
+        - {x: -192, y: -79.5}
+        - {x: -207, y: -91.5}
+        - {x: -206, y: -99.5}
+        - {x: -192, y: -112.5}
+        - {x: -119, y: -125.5}
+        - {x: -101, y: -126.5}
+        - {x: 83, y: -126.5}
+        - {x: 132, y: -122.5}
+        - {x: 171, y: -117.5}
+        - {x: 206, y: -102.5}
+    - name: shrub spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2031
+        width: 887
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 200, y: -76}
+        - {x: 222, y: -52}
+        - {x: 222, y: -15}
+        - {x: 213, y: 17}
+        - {x: 179, y: 73}
+        - {x: 180, y: 101}
+        - {x: 173, y: 110}
+        - {x: 166, y: 107}
+        - {x: 137, y: 91}
+        - {x: 106, y: 91}
+        - {x: 85, y: 105}
+        - {x: 57, y: 118}
+        - {x: 44, y: 121}
+        - {x: -25, y: 121}
+        - {x: -51, y: 114}
+        - {x: -88, y: 104}
+        - {x: -119, y: 97}
+        - {x: -152, y: 121}
+        - {x: -156, y: 113}
+        - {x: -152, y: 81}
+        - {x: -193, y: 55}
+        - {x: -203, y: 24}
+        - {x: -222, y: -2}
+        - {x: -222, y: -40}
+        - {x: -218, y: -48}
+        - {x: -201, y: -65}
+        - {x: -210, y: -96}
+        - {x: -174, y: -115}
+        - {x: -114, y: -120}
+        - {x: 92, y: -120}
+        - {x: 135, y: -116}
+        - {x: 186, y: -107}
+        - {x: 205, y: -93}
+    - name: shrub spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1568
+        width: 887
+        height: 459
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 200, y: -72}
+        - {x: 222, y: -44}
+        - {x: 222, y: -10}
+        - {x: 212, y: 16}
+        - {x: 186, y: 44}
+        - {x: 184, y: 56}
+        - {x: 179, y: 95}
+        - {x: 175, y: 108}
+        - {x: 145, y: 90}
+        - {x: 106, y: 89}
+        - {x: 62, y: 112}
+        - {x: 51, y: 115}
+        - {x: -39, y: 115}
+        - {x: -113, y: 89}
+        - {x: -131, y: 102}
+        - {x: -153, y: 111}
+        - {x: -153, y: 102}
+        - {x: -151, y: 86}
+        - {x: -176, y: 63}
+        - {x: -187, y: 51}
+        - {x: -222, y: 0}
+        - {x: -222, y: -42}
+        - {x: -221, y: -49}
+        - {x: -192, y: -70}
+        - {x: -201, y: -74}
+        - {x: -208, y: -85}
+        - {x: -209, y: -92}
+        - {x: -172, y: -110}
+        - {x: -102, y: -115}
+        - {x: 93, y: -115}
+        - {x: 123, y: -112}
+        - {x: 179, y: -106}
+        - {x: 204, y: -89}
+    - name: shrub spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1084
+        width: 887
+        height: 479
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 204, y: -86}
+        - {x: 200, y: -69}
+        - {x: 222, y: -51}
+        - {x: 222, y: -12}
+        - {x: 211, y: 16}
+        - {x: 188, y: 58}
+        - {x: 167, y: 81}
+        - {x: 176, y: 97}
+        - {x: 173, y: 105}
+        - {x: 165, y: 103}
+        - {x: 137, y: 92}
+        - {x: 60, y: 117}
+        - {x: 48, y: 120}
+        - {x: -29, y: 120}
+        - {x: -51, y: 114}
+        - {x: -88, y: 103}
+        - {x: -121, y: 90}
+        - {x: -147, y: 111}
+        - {x: -152, y: 111}
+        - {x: -155, y: 104}
+        - {x: -147, y: 86}
+        - {x: -178, y: 68}
+        - {x: -197, y: 40}
+        - {x: -222, y: -3}
+        - {x: -222, y: -40}
+        - {x: -218, y: -48}
+        - {x: -201, y: -65}
+        - {x: -210, y: -96}
+        - {x: -174, y: -115}
+        - {x: -114, y: -120}
+        - {x: 100, y: -120}
+        - {x: 110, y: -119}
+        - {x: 176, y: -109}
+        - {x: 197, y: -101}
+    - name: shrub spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 574
+        width: 877
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 204.5, y: -69}
+        - {x: 219.5, y: -49}
+        - {x: 219.5, y: -16}
+        - {x: 210.5, y: 18}
+        - {x: 185.5, y: 58}
+        - {x: 168.5, y: 84}
+        - {x: 176.5, y: 105}
+        - {x: 173.5, y: 113}
+        - {x: 144.5, y: 99}
+        - {x: 103.5, y: 98}
+        - {x: 65.5, y: 122}
+        - {x: 52.5, y: 126}
+        - {x: -33.5, y: 126}
+        - {x: -63.5, y: 112}
+        - {x: -91.5, y: 107}
+        - {x: -122.5, y: 93}
+        - {x: -145.5, y: 114}
+        - {x: -156.5, y: 121}
+        - {x: -154.5, y: 88}
+        - {x: -184.5, y: 61}
+        - {x: -194.5, y: 36}
+        - {x: -213.5, y: 10}
+        - {x: -219.5, y: -3}
+        - {x: -219.5, y: -43}
+        - {x: -204.5, y: -67}
+        - {x: -192.5, y: -79}
+        - {x: -207.5, y: -91}
+        - {x: -206.5, y: -99}
+        - {x: -192.5, y: -112}
+        - {x: -119.5, y: -125}
+        - {x: -103.5, y: -126}
+        - {x: 88.5, y: -126}
+        - {x: 131.5, y: -122}
+        - {x: 190.5, y: -112}
+        - {x: 207.5, y: -94}
+    - name: shrub spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 843
+        height: 527
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 200, y: -87}
+        - {x: 191, y: -76}
+        - {x: 211, y: -60}
+        - {x: 211, y: -11}
+        - {x: 203, y: 16}
+        - {x: 178, y: 46}
+        - {x: 175, y: 64}
+        - {x: 167, y: 84}
+        - {x: 175, y: 103}
+        - {x: 174, y: 114}
+        - {x: 152, y: 100}
+        - {x: 98, y: 99}
+        - {x: 85, y: 113}
+        - {x: 50, y: 132}
+        - {x: -32, y: 132}
+        - {x: -61, y: 120}
+        - {x: -111, y: 102}
+        - {x: -121, y: 92}
+        - {x: -145, y: 115}
+        - {x: -155, y: 123}
+        - {x: -157, y: 90}
+        - {x: -139, y: 89}
+        - {x: -166, y: 74}
+        - {x: -177, y: 59}
+        - {x: -211, y: -3}
+        - {x: -211, y: -49}
+        - {x: -193, y: -73}
+        - {x: -195, y: -83}
+        - {x: -211, y: -101}
+        - {x: -211, y: -104}
+        - {x: -202, y: -113}
+        - {x: -149, y: -128}
+        - {x: -98, y: -132}
+        - {x: 99, y: -132}
+        - {x: 124, y: -130}
+        - {x: 179, y: -121}
+        - {x: 204, y: -106}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
